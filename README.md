@@ -10,5 +10,6 @@
 # For map; https://leafletjs.com/download.html
 # Unfortunately, the map is not working as it should. The issue will be solved later.
 # The page was deployed.
-The site is live at: https://zsabori82.github.io/Bootstrap-Portfolio/
-Github url: https://github.com/zsabori82/Bootstrap-Portfolio
+# The site is live at: https://zsabori82.github.io/Bootstrap-Portfolio/
+# GitHub URL: https://github.com/zsabori82/Bootstrap-Portfolio
+ 
